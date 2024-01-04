@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34322.80
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "switchh statement", "switchh statement\switchh statement.csproj", "{DCCAC45F-02DB-4401-9C2E-D48BB2F78265}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DCCAC45F-02DB-4401-9C2E-D48BB2F78265}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCCAC45F-02DB-4401-9C2E-D48BB2F78265}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCCAC45F-02DB-4401-9C2E-D48BB2F78265}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCCAC45F-02DB-4401-9C2E-D48BB2F78265}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F3362CE0-11B5-48E3-87E5-40B232A7CC4D}
+	EndGlobalSection
+EndGlobal
